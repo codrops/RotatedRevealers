@@ -6,7 +6,7 @@ Demos of the tutorial on how to create and animate a rotated overlay, or "reveal
 
 [Article on Codrops](https://tympanus.net/codrops/?p=40167)
 
-[Demo](http://tympanus.net/Tutorials/RotatedRevealer/)
+[Demo](https://tympanus.net/Tutorials/RotatedRevealers/)
 
 ## Credits
 
